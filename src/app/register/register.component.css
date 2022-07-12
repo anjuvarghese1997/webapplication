@@ -1,0 +1,29 @@
+
+.card{
+    border: none;
+    width: 300px;
+    padding: 40px;
+    position: absolute;
+    top: 40%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    
+    background: rgba(249, 120, 124, 0.959);
+    background: linear-gradient(90deg, rgb(228, 67, 67) 0%, rgb(242, 115, 115) 100% );
+}
+
+.name{
+    margin-left: 65px;
+}
+.phn-no{
+    margin-left: 10px;
+}
+.address{
+    margin-left: 62px;
+}
+.email{
+    margin-left: 50px;
+}
+.gender{
+    margin-left: 55px;
+}
